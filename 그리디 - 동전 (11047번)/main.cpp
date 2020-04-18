@@ -15,7 +15,7 @@ int main(){
     
     int N, K;
     int num = 0;
-    int answer = 0;
+    int answer = 0;//
     
     
     cin >> N >> K;
